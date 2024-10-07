@@ -36,4 +36,4 @@ yarn-error.log*
 next-env.d.ts
 
 # specific xml file
-publicProfile.xml
+publishProfile.xml
